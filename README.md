@@ -81,7 +81,7 @@ Follow these steps to set up the project locally:
 
 ## 🌐 Live Demo
 
-Check out the live version of the project [here](#).
+Check out the live version of the project [here](https://zentry-clone-alpha-hazel.vercel.app/).
 
 ---
 
