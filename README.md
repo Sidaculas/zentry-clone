@@ -4,8 +4,6 @@
 
 Zentry Frontend Clone is a meticulously crafted replication of the Zentry website's frontend. This project demonstrates modern UI/UX design principles and highlights the use of cutting-edge frontend development tools and technologies.
 
-![Zentry Preview](#)
-
 ---
 
 ## 🚀 Features
@@ -89,9 +87,14 @@ Check out the live version of the project [here](#).
 
 ## 📸 Screenshots
 
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/hero.png)
 
 ![About](screenshots/about.png)
+
+![Features](screenshots/features.png)
+![Features Grid](screenshots/features-grid.png)
+![Story](screenshots/story.png)
+![Contact](screenshots/contact.png)
 
 ---
 
